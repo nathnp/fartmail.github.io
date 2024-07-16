@@ -7,4 +7,4 @@ FartMail is the leading provider of clean energy email. With energy created from
 ![](/assets/logo.webp)
 
 > [!NOTE]
-> This website is just a joke, and not real
+> This website is just a joke, and not a real company / product
